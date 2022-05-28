@@ -1,0 +1,30 @@
+.first .colored,
+.second .colored {
+    width: 50%;
+}
+
+.third, .fourth {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.third .colored,
+.fourth .colored {
+    flex-basis: 100%;
+    flex-grow: 1;
+}
+
+.fifth .colored {
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
